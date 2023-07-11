@@ -11,5 +11,5 @@
 
 ## Course 1 : [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development)
 
--   [<font size="3">Programming Assignment - Creating a HTML Document</font>](/c1-introduction-to-front-end-development/1-Creating-a-html-document/)
--   [<font size="3">Programming Assignment - Styling a Page</font>](/c1-introduction-to-front-end-development/2-styling-a-page/)
+-   [<font size="3">Programming Assignment - Creating a HTML Document</font>](/Course1-Introduction-to-Front-End-Development/1-Creating-a-HTML-Document)
+-   [<font size="3">Programming Assignment - Styling a Page</font>](/Course1-Introduction-to-Front-End-Development/2-styling-a-page/)
