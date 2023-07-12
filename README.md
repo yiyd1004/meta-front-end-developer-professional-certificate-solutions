@@ -14,3 +14,6 @@
 -   [<font size="3">Programming Assignment - Creating a HTML Document</font>](/Course1-Introduction-to-Front-End-Development/1-Creating-a-HTML-Document)
 -   [<font size="3">Programming Assignment - Styling a Page</font>](/Course1-Introduction-to-Front-End-Development/2-Styling-a-Page)
 -   [<font size="3">Programming Assignment - Create and Style a Webpage</font>](/Course1-Introduction-to-Front-End-Development/3-Create-and-Style-a-Webpage)
+-   [<font size="3">Lab - Working with Bootstrap grid</font>](/Course1-Introduction-to-Front-End-Development/4-Lab-Working-with-Bootstrap-Grid/)
+-   [<font size="3">Lab - Working with Bootstrap Components</font>](/Course1-Introduction-to-Front-End-Development/5-Lab-Working-with-Bootstrap-Components/)
+-   [<font size="3">Lab - Improve your Bio page with Bootstrap</font>](/Course1-Introduction-to-Front-End-Development/6-Lab-Improve-your-Bio-Page-with-Bootstrap/)
