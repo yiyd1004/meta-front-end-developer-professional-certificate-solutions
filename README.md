@@ -17,3 +17,12 @@
 -   [<font size="3">Lab - Working with Bootstrap grid</font>](/Course1-Introduction-to-Front-End-Development/4-Lab-Working-with-Bootstrap-Grid/)
 -   [<font size="3">Lab - Working with Bootstrap Components</font>](/Course1-Introduction-to-Front-End-Development/5-Lab-Working-with-Bootstrap-Components/)
 -   [<font size="3">Lab - Improve your Bio page with Bootstrap</font>](/Course1-Introduction-to-Front-End-Development/6-Lab-Improve-your-Bio-Page-with-Bootstrap/)
+
+### [Certificate of Completion](https://coursera.org/share/57c72c94f78302be01c359351247dd68) <br />
+
+## Course 2 : [Programming With Javascript](/Course2-Programming-with-Javascript/)
+
+-   [<font size="3">Lab Instructions - Building a Functional Program</fon>](/Course2-Programming-with-Javascript/1-Lab-Instructions-Building-a-Functional-Program)
+-   [<font size="3">Programming Assignment - Building an object oriented program</font>](/Course2-Programming-with-Javascript/2-Programming-Assignment-Building-an-object-oriented-program)
+-   [<font size="3">Programming Assignment - Array and object iteration</font>](/Course2-Programming-with-Javascript/3-Programming-Assignment-Array-and-object-iteration)
+-   [<font size="3">Programming Assignment - Writing a Unit Test](/Course2-Programming-with-Javascript/4-Programming-Assignment-Writing-a-Unit-Test)
