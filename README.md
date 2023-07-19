@@ -18,7 +18,7 @@
 -   [<font size="3">Lab - Working with Bootstrap Components</font>](/Course1-Introduction-to-Front-End-Development/5-Lab-Working-with-Bootstrap-Components/)
 -   [<font size="3">Lab - Improve your Bio page with Bootstrap</font>](/Course1-Introduction-to-Front-End-Development/6-Lab-Improve-your-Bio-Page-with-Bootstrap/)
 
-### [Certificate of Completion](https://coursera.org/share/57c72c94f78302be01c359351247dd68) <br />
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/57c72c94f78302be01c359351247dd68) <br />
 
 ## Course 2 : [Programming With Javascript](/Course2-Programming-with-Javascript/)
 
@@ -26,3 +26,12 @@
 -   [<font size="3">Programming Assignment - Building an object oriented program</font>](/Course2-Programming-with-Javascript/2-Programming-Assignment-Building-an-object-oriented-program)
 -   [<font size="3">Programming Assignment - Array and object iteration</font>](/Course2-Programming-with-Javascript/3-Programming-Assignment-Array-and-object-iteration)
 -   [<font size="3">Programming Assignment - Writing a Unit Test](/Course2-Programming-with-Javascript/4-Programming-Assignment-Writing-a-Unit-Test)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/795965eee2cb169f8716bffcccffdcc0) <br />
+
+## Course 7 : [Principles of UX/UI Design](/Course7-Principles-of-UX-UI-Design/)
+
+-   [<font size="3">Exercise - Creatae wireframe in Figma</font>](/Course2-Programming-with-Javascript/1-Exercise-Create-wireframe-in-Figma)
+-   [<font size="3">Peer graded Assignment - Booking a table on the Little Lemon wewbsite</font>](/Course2-Programming-with-Javascript/2-Peer-graded-Assignment-Booking-a-table-on-the-Little-Lemon-website)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/0b90ee2af838eac40effa5e103e468e5) <br />
