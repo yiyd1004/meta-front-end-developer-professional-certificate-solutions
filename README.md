@@ -31,7 +31,7 @@
 
 ## Course 7 : [Principles of UX/UI Design](/Course7-Principles-of-UX-UI-Design/)
 
--   [<font size="3">Exercise - Creatae wireframe in Figma</font>](/Course2-Programming-with-Javascript/1-Exercise-Create-wireframe-in-Figma)
--   [<font size="3">Peer graded Assignment - Booking a table on the Little Lemon wewbsite</font>](/Course2-Programming-with-Javascript/2-Peer-graded-Assignment-Booking-a-table-on-the-Little-Lemon-website)
+-   [<font size="3">Exercise - Creatae wireframe in Figma</font>](/Course7-Principles-of-UX-UI-Design/1-Exercise-Create-wireframe-in-Figma)
+-   [<font size="3">Peer graded Assignment - Booking a table on the Little Lemon wewbsite</font>](/Course7-Principles-of-UX-UI-Design/2-Peer-graded-Assignment-Booking-a-table-on-the-Little-Lemon-website)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/0b90ee2af838eac40effa5e103e468e5) <br />
