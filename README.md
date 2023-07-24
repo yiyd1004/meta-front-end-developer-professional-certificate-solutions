@@ -29,6 +29,18 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/795965eee2cb169f8716bffcccffdcc0) <br />
 
+## Course 4 : [HTML and CSS in depth](/Course4-HTML-and-CSS-in-depth/)
+
+-   [<font size="3">Lab Instructions - Create and test a form</fon>](/Course4-HTML-and-CSS-in-depth/1-Lab-Create-and-test-a-form)
+-   [<font size="3">Lab Instructions - Create a complex form</font>](/Course4-HTML-and-CSS-in-depth/2-Lab-Create-a-complex-form)
+-   [<font size="3">Lab Instructions - Rate the media</font>](/Course4-HTML-and-CSS-in-depth/3-Lab-Rate-the-media)
+-   [<font size="3">Lab Instructions - Create a grid layout](/Course4-HTML-and-CSS-in-depth/4-Lab-Create-a-grid-layout)
+-   [<font size="3">Lab Instructions - Targeted CSS](/Course4-HTML-and-CSS-in-depth/5-Lab-Targeted-CSS)
+-   [<font size="3">Lab Instructions - Transforming and transitioning elements](/Course4-HTML-and-CSS-in-depth/6-Lab-Transforming-and-transitioning-elements)
+-   [<font size="3">Peer Graded Assignment - Portfolio project](/Course4-HTML-and-CSS-in-depth/7-Peer-graded-Assignment-Portfolio-project)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/16d26d90e715a13b8babe6ec53815bcf) <br />
+
 ## Course 7 : [Principles of UX/UI Design](/Course7-Principles-of-UX-UI-Design/)
 
 -   [<font size="3">Exercise - Creatae wireframe in Figma</font>](/Course7-Principles-of-UX-UI-Design/1-Exercise-Create-wireframe-in-Figma)

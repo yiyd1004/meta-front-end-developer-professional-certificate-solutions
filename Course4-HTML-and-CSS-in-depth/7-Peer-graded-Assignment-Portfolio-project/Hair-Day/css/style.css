@@ -1,0 +1,227 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 2.3rem;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #ffe6e6;
+}
+
+header {
+    background-color: #323232;
+    padding-top: 2.5rem;
+}
+
+header > img {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+}
+
+nav {
+    margin-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 1rem 0;
+}
+
+nav li a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #d0604c;
+}
+
+nav li a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+main {
+    width: 100%;
+}
+
+section {
+    display: flex;
+    margin: 2rem;
+}
+
+article {
+    flex: 1;
+    padding: 1rem;
+    border: 2px solid #d0604c;
+    border-radius: 16px;
+}
+
+.promotion {
+    position: relative;
+    display: flex;
+}
+
+.promotion > article {
+    display: flex;
+    align-items: flex-start;
+}
+
+.promotionImage {
+    width: 500px;
+    height: 100%;
+    background-image: url("../images/promotion.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    box-shadow: 0 0 16px 16px #ffe6e6 inset;
+}
+
+.promotionContent {
+    width: calc(100% - 200px);
+}
+
+.promotionContent > h1 {
+    padding: 1rem;
+    line-height: 4rem;
+}
+
+.promotionContent > p {
+    padding: 1rem;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+.content > article:nth-child(2) {
+    margin: 0 1rem;
+}
+
+.content > article > h2,
+.content > article > p {
+    margin-bottom: 1rem;
+}
+
+.content > article > a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #d0604c;
+}
+
+.content > article > a:hover {
+    color: red;
+    text-shadow: 4px 4px 8px #c737f3;
+    text-decoration: underline;
+}
+
+/* .content > article > a:hover {
+    
+} */
+
+.ownerImg,
+.shopImg {
+    width: 100%;
+    height: 292px;
+    margin-bottom: 1rem;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 16px;
+}
+
+.galleryContainer {
+    width: 100%;
+    height: 292px;
+    margin-bottom: 1rem;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.galleryContainer > div {
+    display: flex;
+    width: 400%;
+    height: 100%;
+    animation: 20s slider infinite;
+}
+
+.galleryContainer > div > img {
+    width: 25%;
+    height: 292px;
+    margin-bottom: 1rem;
+    border-radius: 16px;
+    object-fit: cover;
+    object-position: center;
+}
+
+@keyframes slider {
+    0% {
+        /* left: 0; */
+        transform: translateX(0);
+    }
+    25% {
+        /* left: -100%; */
+        transform: translateX(-25%);
+    }
+    50% {
+        /* left: -200%; */
+        transform: translateX(-50%);
+    }
+    75% {
+        /* left: -300%; */
+        transform: translateX(-75%);
+    }
+    100% {
+        /* left: 0px; */
+        transform: translateX(0);
+    }
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    height: 125px;
+    align-items: center;
+    background-color: #323232;
+}
+
+footer > div {
+    flex: 1;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+footer div img {
+    height: 60px;
+}
+
+footer > div:nth-child(2) > table {
+    margin: 0 auto;
+    text-align: center;
+    color: #d0604c;
+}
+
+footer > div:nth-child(2) > table td,
+footer > div:nth-child(2) > table th {
+    padding: 2px 8px;
+}
+
+footer > div:nth-child(2) > table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+}
+
+footer > div:nth-child(3) {
+    text-align: right;
+    color: #d0604c;
+}
