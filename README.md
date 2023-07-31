@@ -25,7 +25,7 @@
 -   [<font size="3">Lab Instructions - Building a Functional Program</fon>](/Course2-Programming-with-Javascript/1-Lab-Instructions-Building-a-Functional-Program)
 -   [<font size="3">Programming Assignment - Building an object oriented program</font>](/Course2-Programming-with-Javascript/2-Programming-Assignment-Building-an-object-oriented-program)
 -   [<font size="3">Programming Assignment - Array and object iteration</font>](/Course2-Programming-with-Javascript/3-Programming-Assignment-Array-and-object-iteration)
--   [<font size="3">Programming Assignment - Writing a Unit Test](/Course2-Programming-with-Javascript/4-Programming-Assignment-Writing-a-Unit-Test)
+-   [<font size="3">Programming Assignment - Writing a Unit Test</font>](/Course2-Programming-with-Javascript/4-Programming-Assignment-Writing-a-Unit-Test)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/795965eee2cb169f8716bffcccffdcc0) <br />
 
@@ -34,12 +34,27 @@
 -   [<font size="3">Lab Instructions - Create and test a form</fon>](/Course4-HTML-and-CSS-in-depth/1-Lab-Create-and-test-a-form)
 -   [<font size="3">Lab Instructions - Create a complex form</font>](/Course4-HTML-and-CSS-in-depth/2-Lab-Create-a-complex-form)
 -   [<font size="3">Lab Instructions - Rate the media</font>](/Course4-HTML-and-CSS-in-depth/3-Lab-Rate-the-media)
--   [<font size="3">Lab Instructions - Create a grid layout](/Course4-HTML-and-CSS-in-depth/4-Lab-Create-a-grid-layout)
--   [<font size="3">Lab Instructions - Targeted CSS](/Course4-HTML-and-CSS-in-depth/5-Lab-Targeted-CSS)
--   [<font size="3">Lab Instructions - Transforming and transitioning elements](/Course4-HTML-and-CSS-in-depth/6-Lab-Transforming-and-transitioning-elements)
+-   [<font size="3">Lab Instructions - Create a grid layout</font>](/Course4-HTML-and-CSS-in-depth/4-Lab-Create-a-grid-layout)
+-   [<font size="3">Lab Instructions - Targeted CSS</font>](/Course4-HTML-and-CSS-in-depth/5-Lab-Targeted-CSS)
+-   [<font size="3">Lab Instructions - Transforming and transitioning elements</font>](/Course4-HTML-and-CSS-in-depth/6-Lab-Transforming-and-transitioning-elements)
 -   [<font size="3">Peer Graded Assignment - Portfolio project](/Course4-HTML-and-CSS-in-depth/7-Peer-graded-Assignment-Portfolio-project)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/16d26d90e715a13b8babe6ec53815bcf) <br />
+
+## Course 5 : [React Basics](/Course5-React-Basics/)
+
+-   [<font size="3">Lab Instructions - Your first component</font>](/Course5-React-Basics/1-Lab-Your-first-component)
+-   [<font size="3">Lab Instructions - Creating and -importing components</font>](/Course5-React-Basics/2-Lab-Creating-and-importing-components)
+-   [<font size="3">Lab Instructions - Passing props</font>](/Course5-React-Basics/3-Lab-Passing-props)
+-   [<font size="3">Lab Instructions - Multiple components</font>](/Course5-React-Basics/4-Lab-Multiple-components)
+-   [<font size="3">Lab Instructions - Dynamic events</font>](/Course5-React-Basics/5-Lab-Dynamic-events)
+-   [<font size="3">Lab Instructions - Managing state in React</font>](/Course5-React-Basics/6-Lab-Managing-state-in-React)
+-   [<font size="3">Lab Instructions - Creating a route</font>](/Course5-React-Basics/7-Lab-Creating-a-route)
+-   [<font size="3">Lab Instructions - Displaying images</font>](/Course5-React-Basics/8-Lab-Displaying-images)
+-   [<font size="3">Lab Instructions - Song selection</font>](/Course5-React-Basics/9-Lab-Song-selection)
+-   [<font size="3">Peer Graded Assignment - Build a calculator app](/Course5-React-Basics/10-Peer-graded-Assignment-Build-a-calculator-app)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/24c812300bcd0b147a96d3c0d9fdf70a) <br />
 
 ## Course 7 : [Principles of UX/UI Design](/Course7-Principles-of-UX-UI-Design/)
 
