@@ -9,6 +9,8 @@
 -   <font size="3">Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.</font>
 -   <font size="3">Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.</font>
 
+## ⭐️[Certificate of Meta Front-End Developer](https://coursera.org/share/140c409bdd76aa5fd0c4212ef19b47ac)⭐️
+
 ## Course 1 : [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development)
 
 -   [<font size="3">Programming Assignment - Creating a HTML Document</font>](/Course1-Introduction-to-Front-End-Development/1-Creating-a-HTML-Document)
@@ -56,9 +58,37 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/24c812300bcd0b147a96d3c0d9fdf70a) <br />
 
+## Course 6 : [Advanced React](/Course6-Advanced-React/)
+
+-   [<font size="3">Lab Instructions - Create a basic List component</font>](/Course6-Advanced-React/1-Lab-Exercise-Create-a-basic-List-component)
+-   [<font size="3">Lab Instructions - Create a registration form</font>](/Course6-Advanced-React/2-Lab-Exercise-Create-a-registration-form)
+-   [<font size="3">Lab Instructions - Create a light dark theme switcher</font>](/Course6-Advanced-React/3-Lab-Exercise-Create-a-light-dark-theme-switcher)
+-   [<font size="3">Lab Instructions - Managing state within a component</font>](/Course6-Advanced-React/4-Lab-Exercise-Managing-state-within-a-component)
+-   [<font size="3">Lab Instructions - Can you fetch data</font>](/Course6-Advanced-React/5-Lab-Exercise-Can-you-fetch-data)
+-   [<font size="3">Lab Instructions - Create your own custom hook usePrevious</font>](/Course6-Advanced-React/6-Lab-Exercise-Create-your-own-custom-hook-usePrevious)
+-   [<font size="3">Lab Instructions - Build a Radio Group Component</font>](/Course6-Advanced-React/7-Lab-Exercise-Build-a-Radio-Group-Component)
+-   [<font size="3">Lab Instructions - Implementing scroller position with render props</font>](/Course6-Advanced-React/8-Lab-Exercise-Implementing-scroller-position-with-render-props)
+-   [<font size="3">Lab Instructions - Writing more etest scenarios</font>](/Course6-Advanced-React/9-Lab-Exercise-Writing-more-test-scenarios)
+-   [<font size="3">Peer Graded Assignment - Create your portfolio](/Course6-Advanced-React/10-Peer-graded-Assignment-Create-your-portfolio)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/24c812300bcd0b147a96d3c0d9fdf70a) <br />
+
 ## Course 7 : [Principles of UX/UI Design](/Course7-Principles-of-UX-UI-Design/)
 
 -   [<font size="3">Exercise - Creatae wireframe in Figma</font>](/Course7-Principles-of-UX-UI-Design/1-Exercise-Create-wireframe-in-Figma)
--   [<font size="3">Peer graded Assignment - Booking a table on the Little Lemon wewbsite</font>](/Course7-Principles-of-UX-UI-Design/2-Peer-graded-Assignment-Booking-a-table-on-the-Little-Lemon-website)
+-   [<font size="3">Peer Graded Assignment - Booking a table on the Little Lemon wewbsite</font>](/Course7-Principles-of-UX-UI-Design/2-Peer-graded-Assignment-Booking-a-table-on-the-Little-Lemon-website)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/0b90ee2af838eac40effa5e103e468e5) <br />
+
+## Course 8 : [Front-End Developer Capstone](/Course8-Front-End-Developer-Capstone/)
+
+-   [<font size="3">Exercise - Wireframing the project</font>](/Course8-Front-End-Developer-Capstone/1-Exercise-Wireframing-the-project)
+-   [<font size="3">Exercise - Designing components</font>](/Course8-Front-End-Developer-Capstone/2-Exercise-Designing-components)
+-   [<font size="3">Exercise - Applying design fundamentals in Figma</font>](/Course8-Front-End-Developer-Capstone/3-Exercise-Applying-design-fundamentals-in-Figma)
+-   [<font size="3">Peer Graded Assignment - Little Lemon Restaurant</font>](https://github.com/yiyd1004/little-lemon)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/a964fc479cd14f85301ff265a745379c) <br />
+
+## Course 9 : Coding Interview Preparation
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Certificate of Completion](https://coursera.org/share/e9913dbfe9aecde559fa66ddc95c0769) <br />
